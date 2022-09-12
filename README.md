@@ -1,8 +1,9 @@
 # Python_Syntax
 
 
-
+### first line
 ` print("Hello world!")`
+### second line
 `print("Hello line 2")`
 
 `x = 8 # this is an comment`
